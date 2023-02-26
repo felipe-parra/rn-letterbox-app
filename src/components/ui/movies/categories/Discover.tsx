@@ -16,5 +16,5 @@ export default function Discover() {
     return <Text>Something wen't wrong</Text>;
   }
 
-  return <HorizontalSlider movies={movies} title={'Discover'} />;
+  return <HorizontalSlider movies={movies} title={'Descubre'} />;
 }
